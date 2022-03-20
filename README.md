@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **gbouzazi@gmail.com**
 - my  portfolio as a software developer: <a href="https://www.ghazibouzazi.com/" target="blank">ghazibouzazi.com</a>
-- - my portfolio as a photographer: <a href="https://www.photography.ghazibouzazi.com/" target="blank">photography.ghazibouzazi.com</a>
+- my portfolio as a photographer: <a href="https://www.photography.ghazibouzazi.com/" target="blank">photography.ghazibouzazi.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
