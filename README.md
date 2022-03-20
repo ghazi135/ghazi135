@@ -3,7 +3,9 @@
 
 
 - 📫 How to reach me **gbouzazi@gmail.com**
-- my portfolio: <a href="https://www.ghazibouzazi.com/" target="blank">www.ghazibouzazi.com</a>
+- my  portfolio as a software developer: <a href="https://www.ghazibouzazi.com/" target="blank">ghazibouzazi.com</a>
+- - my portfolio as a photographer: <a href="https://www.photography.ghazibouzazi.com/" target="blank">photography.ghazibouzazi.com</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ghazi-bouzazi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas-gros73" height="30" width="40" /></a>
